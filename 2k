@@ -7,7 +7,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 ,TRAVEL XP
 http://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,UTKALBONGO
-http://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,Gaan Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 ,Discover Pakistan TV
@@ -18,4 +18,4 @@ http://212.102.60.231/TSN_1/index.m3u8
 https://raw.githubusercontent.com/manikiptv/freecatv.github.io/refs/heads/main/freecatv.m3u8
 #EXTINF:-1 ,DBC News
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-k
+
