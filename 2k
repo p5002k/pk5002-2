@@ -22,3 +22,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 ,AFN 
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 ,KONE MUSIC
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
