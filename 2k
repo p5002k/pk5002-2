@@ -24,4 +24,13 @@ https://amchls.wns.live/hls/stream.m3u8
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 ,KONE MUSIC
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
+#EXTINF:-1 ,PTC MUSIC
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 ,PTc DHol MUSIC
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 ,M2MUSIC
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 ,persiana MUSIC
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 ,persian 
+https://musichls.persiana.live/hls/stream.m3u8
